@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// 희찬이 왔다감
 void main() {
   runApp(const MyApp());
 }
@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),backgroundColor: Colors.grey,
+        title: Text(widget.title),backgroundColor: Colors.red,
       ),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
